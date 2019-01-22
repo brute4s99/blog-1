@@ -3,6 +3,7 @@ module.exports = {
     title: `Nighty Night`,
     description: `Learning to talk to computers`,
     author: `@nightwarrior-xxx`,
+    pathPrefix: '/blog',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
